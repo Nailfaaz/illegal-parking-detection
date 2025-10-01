@@ -1,5 +1,7 @@
-# Dataset files
+# Ignore all dataset contents
 dataset/
+# But keep this specific file
+!dataset/video_1_cut53-00_58-00.mov
 
 # YOLO model files 
 yolo-model/
