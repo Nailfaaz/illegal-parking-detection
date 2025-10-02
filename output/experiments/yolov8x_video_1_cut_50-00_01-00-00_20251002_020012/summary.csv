@@ -1,0 +1,2 @@
+experiment_id,model,video,avg_fps,min_fps,max_fps,total_frames,total_detections,parked_vehicles,processing_time,tracking_gaps,vehicles_with_issues
+yolov8x_video_1_cut_50-00_01-00-00_20251002_020012,yolov8x,video_1_cut_50-00_01-00-00,2.81775820772762,1.6063797070044032,3.060566214790351,18000,180131,19,6660.1288158893585,2915,588
